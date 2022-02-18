@@ -174,4 +174,3 @@ for(var i=0; i < gastos.length; i++) {
     totalGastos += gastos[i];
     console.log(totalGastos);
 }
-
